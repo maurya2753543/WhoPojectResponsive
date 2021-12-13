@@ -1,0 +1,107 @@
+
+
+
+NEERAJ
+MAURYA
+JOB FUNCTION
+
+e:    neeraj03121996@gmaiI.com
+m:    7355297584
+a:    Varanasi BHU (221005) Chhittupur Lanka Near Maurya Lodge Pincode:- 221005
+
+WORK EXPERIENCE
+Current Organization:-   HCL TECHNOLOGIES LIMITED Total experience: -2.9 year
+Software Engineer         (in 1 year 2 months)
+Noida ,  Nov 2020  —   Present
+Programming Languages:- Angular(2 years) , React js (2 months) , IBM Watson assistant,  Node js( 3 
+months) , Microsoft certificate fundamental
+IBM CLI, IBM Cloud, HTML, SCSS, Git,
+
+Designing and developing user interfaces using, Angular, React  Framework and using Nodejs for IBM 
+Watson assistant API call or Connection.
+
+Software Engineer   (1 year 5 months)
+Puresoftware Pvt Ldt..
+Noida 62,   Jun 2019  —   Oct 2020
+Operating Systems: -window
+Programming Languages: - Angular , Html, SCSS(Responsive web), Database: -MONGO DB
+
+Designing and developing user interfaces using, Angular best practices. Adapting interface for 
+modern internet applications using the latest front-end technologies.
+Writing JavaScript, CSS, and HTML. Developing product analysis tasks.
+Software intern       in (3 months) BEEHIVE SYSTEM
+NOIDA B-37 SEC 1,   Jan 2019  —   Apr 2021
+working C++ , Object rendering , 3D animation design using DirectX VS code
+
+EDUCATION
+Computer Science & Engineering(79.9%)
+B tech
+Galgotia's University
+Greater Noida ,   Jun 2015  —   Feb 2019
+Specialization in Cloud Computing Sponsored by IBM
+
+
+
+
+Mathematics (78.2%)
+Xllth
+SDN inter college
+Varanasi ,  Jun 2012  —   Jul 2014
+adv Mathematics & Sciences & Research
+Science  (76.9%)
+Xth
+BG inter college
+Ramna Varanasi ,  Aug 2010  —   Jul 2012
+Physics , Chemistry , Math
+
+PROJECTS
+EVA CHATBOT(COVID 19 HEALTHCARE ) in HCL tech LTD
+Dec 2020   -   Jul 2021
+ANGULAR(9) , IBM CLOUD CLI , IBM WATSON ASSISTANT, NODE JS ,GIT
+,HTML ,SCSS
+WEBSITE:- heaIthyhcI.in
+Designing and developing user interfaces using angular 9 best practies . Booking doctor consultant 
+for Covid 19, Healthcare ,Careplan , Dental procedure, paid services , 50k more the beneficiary 
+used till now
+
+
+STATE STREET TOOLS  (Chatbot) in HCL tech LTD
+Dec 2020  —  Mar 2021
+ANGULAR(9) , IBM CLOUD CLI , IBM WATSON ASSISTANT, NODE JS ,GIT
+,HTML ,SCSS
+Website:-http://statestreetquiz-ui-chatbot.mybIuemix.net/
+Designing and developing user interfaces using angular 9 best practies .
+show strong point , weakpoint , all details related quiz , API call && integration
+, design , date modification , EXCEL FILE Generate
+VENDER PORTAL(Chatbot) in HCL tech LTD
+Jul 2021   -   Dec 2021
+Designing and developing user interfaces using angular 10 best practies . Language translation more 
+30 language support IBM watson language translation API used , all details related Vendor id , 
+query , document  , API call
+
+BOLTTECT(AMTRUST MOBILE INSURANCE )
+Aug 2019  —   Oct 2020
+User interface  , fron-end part API integration , data fatching , design responsive application 
+modern design using HTML ,SCSS , LESS , Bootsrap website url:- https://crm-uat.amtrust.asia/#/auth
+
+Technologies:- Angular(8) ,HTML, CSS, Mongodb(robo3T) , JIRA, git, Jenkins, NODEjs
+
+CERTIFICATIONS
+Java 2EE, MongoDb, C++, C
+Ducate CERTIFICATE NUMBER :- GR/11737
+Jan 2018  —  Dec 2018
+
+
+
+
+AZURE AI FUNDAMENTALS
+MICROSOFT  CERTIFICATE NUMBER :- H722-2562
+Mar 2021  —  May 2021
+
+ACHIEVEMENTS
+Re-organized something to make it work better && Identified a problem and solved it
+Man of the match in hockey in under 14 matches in Lucknow babu K.D sing stadium
+
+HOBBIES
+Reading blogs and technology Traveling, hockey
+listening song
